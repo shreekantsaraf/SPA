@@ -1,0 +1,3 @@
+# SPA - React index.js file. run it using ReactJS
+// I guess this project is the first simple example of single page app (SPA) 
+// press number 1 or 2 to toggle the list displays....
